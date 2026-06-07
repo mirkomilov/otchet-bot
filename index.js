@@ -12,9 +12,9 @@ const bot = new TelegramBot(BOT_TOKEN, { polling: true });
 // =============================================
 const clients = [
   {
-    name: 'Nexus Mebel',
-    groupChatId: '-1000000000001', // ID группы в Telegram
-    fbAdAccountId: 'act_000000000001', // ID рекламного аккаунта Facebook
+    name: 'InSeo',
+    groupChatId: '-5200672935', // ID группы в Telegram
+    fbAdAccountId: 'act_283306024430258', // ID рекламного аккаунта Facebook
   },
   // Добавь следующего клиента так:
   // {
